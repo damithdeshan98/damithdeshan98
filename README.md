@@ -9,7 +9,7 @@
 </p>
     
 - 🌱 I’m currently learning **JSF,Java MERN stack**  
-- 👨‍💻 All of my projects are available at [H.K. Damith Deshan] (https://github.com/DamithDeshan)  
+- 👨‍💻 All of my projects are available at [H.K. Damith Deshan] (https://github.com/damithdeshan98)  
 - 📫 You can contact me at hkddrajapaksha@gmail.com .
     
 <h3 align="left">Connect with me :</h3>
@@ -43,20 +43,20 @@
 
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=damithdeshan" alt="damithdeshan" />
+        <img src="https://github-profile-trophy.vercel.app/?username=damithdeshan98" alt="damithdeshan98" />
     </a> 
 </p>  
 
 <p align="center" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=damithdeshan&show_icons=true&locale=en&layout=compact" alt="damithdeshan" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=damithdeshan98&show_icons=true&locale=en&layout=compact" alt="damithdeshan98" />
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=damithdeshan&show_icons=true&locale=en" alt="damithdeshan" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=damithdeshan98&show_icons=true&locale=en" alt="damithdeshan98" />
     &nbsp;
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damithdeshan&" alt="damithdeshan" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damithdeshan98&" alt="damithdeshan98" />
     &nbsp;
 </p>
