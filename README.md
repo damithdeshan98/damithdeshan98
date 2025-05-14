@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+H.K.+Damith+Deshan..++&hearts;++;Java+Full-Stack+Developer.;Welcome+to+my+GitHub+profile..+!">
   </a>
-</p>
+</p>  
 
 - 🌱 I’m currently learning **JSF,Java MERN stack**
 - 👨‍💻 All of my projects are available at [H.K. Damith Deshan] (https://github.com/damithdeshan98)
