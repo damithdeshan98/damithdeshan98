@@ -7,7 +7,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **JSF,Java MERN stack**
+- 🌱 I’m currently learning **JSF, Java, Spring Boot and MERN stack**
 - 👨‍💻 All of my projects are available at [H.K. Damith Deshan](https://github.com/damithdeshan98)
 - 📫 You can contact me at hkddrajapaksha@gmail.com
 
