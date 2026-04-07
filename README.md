@@ -60,28 +60,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=damithdeshan98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=damithdeshan98&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=damithdeshan98&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=damithdeshan98&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
-
-## Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=damithdeshan98&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
-</div>
