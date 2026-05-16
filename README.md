@@ -117,10 +117,4 @@ Status   : Open to Opportunities ✅
 
 ---
 
-<div align="center">
-
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=130&section=footer" />
