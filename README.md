@@ -30,6 +30,7 @@ Status   : Open to Opportunities ✅
 - 🌱 Currently mastering **Spring Boot**, **JSF** & the **MERN Stack**
 - 💼 All projects at [github.com/damithdeshan98](https://github.com/damithdeshan98)
 - 📫 Reach me at **hkddrajapaksha@gmail.com**
+- 🌐 Visit Portfolio [portfolio/damith](https://damith-portfolio.web.app/)
 - ⚡ I love turning **complex problems** into elegant, simple solutions
 
 <br clear="right"/>
