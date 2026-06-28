@@ -19,7 +19,7 @@
 ### 👨‍💻 About Me
 
 ```yaml
-Name     : H.K. Damith Deshan
+Name     : H.K. Damith Deshan Rajapa
 Role     : Java Full-Stack Developer
 Location : Sri Lanka 🇱🇰
 Focus    : Scalable Web Applications
